@@ -1,0 +1,22 @@
+form{
+  text-align: center;
+  width: 500px;
+  margin: 10px auto;
+  border: 10px;
+
+}
+form input{
+  margin-bottom: 3px;
+}
+
+div {
+  width: 500px;
+  text-align: left;
+  margin-bottom: 3px;
+}
+.campo-invalido {
+  border: 1px solid red;
+}
+table{
+  text-align: center;
+}
